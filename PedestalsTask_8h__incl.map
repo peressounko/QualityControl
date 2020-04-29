@@ -1,0 +1,11 @@
+<map id="Modules/MUON/MCH/include/MCH/PedestalsTask.h" name="Modules/MUON/MCH/include/MCH/PedestalsTask.h">
+<area shape="rect" id="node2" href="$TaskInterface_8h.html" title="QualityControl/TaskInterface.h" alt="" coords="103,251,303,278"/>
+<area shape="rect" id="node17" href="$Mapping_8h_source.html" title="MCH/Mapping.h" alt="" coords="417,169,535,196"/>
+<area shape="rect" id="node19" href="$Decoding_8h.html" title="MCH/Decoding.h" alt="" coords="316,95,439,121"/>
+<area shape="rect" id="node9" href="$Activity_8h.html" title="QualityControl/Activity.h" alt="" coords="610,333,774,360"/>
+<area shape="rect" id="node10" href="$ObjectsManager_8h.html" title="QualityControl/ObjectsManager.h" alt="" coords="798,333,1013,360"/>
+<area shape="rect" id="node11" href="$MonitorObject_8h.html" title="QualityControl/MonitorObject.h" alt="" coords="805,408,1006,435"/>
+<area shape="rect" id="node15" href="$Quality_8h.html" title="QualityControl/Quality.h" alt="" coords="619,408,781,435"/>
+<area shape="rect" id="node16" href="$TaskConfig_8h.html" title="QualityControl/TaskConfig.h" alt="" coords="357,408,544,435"/>
+<area shape="rect" id="node20" href="$sampa__header_8h_source.html" title="MCH/sampa_header.h" alt="" coords="241,169,394,196"/>
+</map>

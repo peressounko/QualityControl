@@ -1,0 +1,9 @@
+<map id="Modules/TOF/include/TOF/TOFTaskCompressed.h" name="Modules/TOF/include/TOF/TOFTaskCompressed.h">
+<area shape="rect" id="node2" href="$TaskInterface_8h.html" title="QualityControl/TaskInterface.h" alt="" coords="565,95,765,121"/>
+<area shape="rect" id="node17" href="$TOFDecoderCompressed_8h.html" title="TOF/TOFDecoderCompressed.h" alt="" coords="1358,95,1570,121"/>
+<area shape="rect" id="node9" href="$Activity_8h.html" title="QualityControl/Activity.h" alt="" coords="463,177,627,203"/>
+<area shape="rect" id="node10" href="$ObjectsManager_8h.html" title="QualityControl/ObjectsManager.h" alt="" coords="703,177,918,203"/>
+<area shape="rect" id="node11" href="$MonitorObject_8h.html" title="QualityControl/MonitorObject.h" alt="" coords="915,259,1117,285"/>
+<area shape="rect" id="node15" href="$Quality_8h.html" title="QualityControl/Quality.h" alt="" coords="730,259,891,285"/>
+<area shape="rect" id="node16" href="$TaskConfig_8h.html" title="QualityControl/TaskConfig.h" alt="" coords="468,259,655,285"/>
+</map>
